@@ -51,7 +51,7 @@ Learners-Hub/
 
 ![Homepage](Screenshots/homepage.png)
 ![Features](Screenshots/features.png)
-![Testimonials and Newsletter](Screenshots/testimonials-newsletter.png)
+![Testimonials and Newsletter](Screenshots/testimonials.png)
 ![Newsletter and Footer](Screenshots/newsletter-footer.png)
 
 
